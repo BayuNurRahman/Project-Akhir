@@ -2,4 +2,3 @@ streamlit
 bs4
 requests
 pandas
-base64
